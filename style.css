@@ -1,0 +1,25 @@
+body {
+      text-align: center;
+      background-color: rgb(167, 250, 222);
+}
+
+.header-css-1 {
+      font-weight: bold;
+      font-size: 65px;
+      font-family: 'Langar', cursive;
+      color: rgb(130, 105, 243)
+}
+
+.header-css-2 {
+      font-weight: 700;
+      font-size: 30px;
+      font-family: 'Hanalei Fill', cursive;
+      color: rgb(42, 168, 11);
+}
+
+.image-css {
+      text-align: center;
+      width: 70%;
+      border: 6px solid rgb(240, 91, 195);
+      border-radius: 20px;
+}
